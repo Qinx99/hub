@@ -339,3 +339,21 @@ a {
     height: 1px;
     border: 1px gray solid;
 }
+
+.github {
+  position: absolute;
+  top: 50%;
+  left: 3%;
+  transform: translate(-2%, -50%),;
+  width: 250px;
+  border: 7px black solid;
+}
+
+.github p {
+  text-align: center;
+}
+
+.github a {
+  text-decoration: none;
+  color: white;
+}
