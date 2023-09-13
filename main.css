@@ -115,7 +115,7 @@ a {
   height: 200px;
   border: 7px black solid;
   top: 130%;
-  left: 35%;
+  left: 26%;
   cursor: pointer;
 }
 
@@ -126,7 +126,18 @@ a {
   height: 200px;
   border: 7px black solid;
   top: 130%;
-  left: 52%;
+  left: 43%;
+  cursor: pointer;
+}
+
+.box12 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 130%;
+  left: 60%;
   cursor: pointer;
 }
 
@@ -269,6 +280,19 @@ a {
   font-size: 20px;
 }
 
+.box12 .in12 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box12 .in12 h1 {
+  text-align: center;
+  font-size: 20px;
+}
+
 .box1 .img1 {
   position: absolute;
   left: 18%;
@@ -324,6 +348,11 @@ a {
   left: 18%;
 }
 
+.box12 .img12 {
+  position: absolute;
+  left: 18%;
+}
+
 .title {
   position: absolute;
   left: 37%;
@@ -335,16 +364,16 @@ a {
 }
 
 .scb1 {
-    width: 1px;
-    height: 1px;
-    border: 1px gray solid;
+  width: 1px;
+  height: 1px;
+  border: 1px gray solid;
 }
 
 .github {
   position: absolute;
   top: 50%;
   left: 3%;
-  transform: translate(-2%, -50%),;
+  transform: translate(-2%, -50%);
   width: 250px;
   border: 7px black solid;
 }
