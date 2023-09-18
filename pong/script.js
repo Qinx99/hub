@@ -107,8 +107,8 @@ function update() {
   // }
 
   // Move ball
-  ballX += ballSpeedX;
-  ballY += ballSpeedY;
+  ballX += ballSpeedX += 0.1 ;
+  ballY += ballSpeedY += 0.1;
 
   // Check if ball collides with top or bottom of canvas
   if (ballY - ballRadius < 0 || ballY + ballRadius > canvas.height) {
