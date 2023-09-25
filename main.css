@@ -1,0 +1,388 @@
+@import url('https://fonts.cdnfonts.com/css/planet-n');
+body {
+  background: linear-gradient(to right, lightgray, darkgray);
+  font-family: 'Planet N', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.box1 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 20%;
+  left: 26%;
+  cursor: pointer;
+}
+
+.box2 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 20%;
+  left: 43%;
+  cursor: pointer;
+}
+
+.box3 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 20%;
+  left: 60%;
+  cursor: pointer;
+}
+
+.box4 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 57%;
+  left: 26%;
+  cursor: pointer;
+}
+
+.box5 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 57%;
+  left: 43%;
+  cursor: pointer;
+}
+
+.box6 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 57%;
+  left: 60%;
+  cursor: pointer;
+}
+
+.box7 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 93%;
+  left: 26%;
+  cursor: pointer;
+}
+
+.box8 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 93%;
+  left: 43%;
+  cursor: pointer;
+}
+
+.box9 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 93%;
+  left: 60%;
+  cursor: pointer;
+}
+
+.box10 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 130%;
+  left: 26%;
+  cursor: pointer;
+}
+
+.box11 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 130%;
+  left: 43%;
+  cursor: pointer;
+}
+
+.box12 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 130%;
+  left: 60%;
+  cursor: pointer;
+}
+
+.box1 .in1 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box1 .in1 h1 {
+  text-align: center;
+}
+
+.box2 .in2 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box2 .in2 h1 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.box3 .in3 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box3 .in3 h1 {
+  text-align: center;
+}
+
+.box4 .in4 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box4 .in4 h1 {
+  text-align: center;
+}
+
+.box5 .in5 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box5 .in5 h1 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.box6 .in6 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box6 .in6 h1 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.box7 .in7 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box7 .in7 h1 {
+  text-align: center;
+}
+
+.box8 .in8 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box8 .in8 h1 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.box9 .in9 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box9 .in9 h1 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.box10 .in10 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box10 .in10 h1 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.box11 .in11 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box11 .in11 h1 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.box12 .in12 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box12 .in12 h1 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.box1 .img1 {
+  position: absolute;
+  left: 18%;
+}
+
+.box2 .img2 {
+  position: absolute;
+  left: 18%;
+}
+
+.box3 .img3 {
+  position: absolute;
+  left: 18%;
+}
+
+.box4 .img4 {
+  position: absolute;
+  left: 18%;
+}
+
+.box5 .img5 {
+  position: absolute;
+  left: 18%;
+}
+
+.box6 .img6 {
+  position: absolute;
+  left: 18%;
+}
+
+.box7 .img7 {
+  position: absolute;
+  left: 18%;
+}
+
+.box8 .img8 {
+  position: absolute;
+  left: 18%;
+}
+
+.box9 .img9 {
+  position: absolute;
+  left: 18%;
+}
+
+.box10 .img10 {
+  position: absolute;
+  left: 18%;
+}
+
+.box11 .img11 {
+  position: absolute;
+  left: 18%;
+}
+
+.box12 .img12 {
+  position: absolute;
+  left: 18%;
+}
+
+.title {
+  position: absolute;
+  left: 37%;
+  top: -5%;
+}
+
+.title h1 {
+  font-size: 75px;
+}
+
+.scb1 {
+  width: 1px;
+  height: 1px;
+  border: 1px gray solid;
+}
+
+.github {
+  position: absolute;
+  top: 50%;
+  left: 3%;
+  transform: translate(-2%, -50%);
+  width: 250px;
+  border: 7px black solid;
+}
+
+.github p {
+  text-align: center;
+}
+
+.github a {
+  text-decoration: none;
+  color: white;
+}
