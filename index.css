@@ -1,0 +1,56 @@
+/* Set height of body and the document to 100% to enable "full page tabs" */
+@import url('https://fonts.cdnfonts.com/css/planet-n');
+body,
+html {
+  height: 96.6%;
+  margin: 0;
+  font-family: 'Planet N', sans-serif;
+  padding: 0;
+
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#Home {
+  background-color: #08141e;
+}
+#News {
+  background-color: #0f2a3f;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+#Contact {
+  background-color: #6d7a80;
+}
+#About {
+  background-color: #8caba1;
+}
