@@ -141,6 +141,18 @@ a {
   cursor: pointer;
 }
 
+.box13 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 167%;
+  left: 50%;
+  transform: translate(-50%);
+  cursor: pointer;
+}
+
 .box1 .in1 {
   position: absolute;
   width: 186px;
@@ -293,6 +305,19 @@ a {
   font-size: 20px;
 }
 
+.box13 .in13 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box13 .in13 h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
 .box1 .img1 {
   position: absolute;
   left: 18%;
@@ -349,6 +374,11 @@ a {
 }
 
 .box12 .img12 {
+  position: absolute;
+  left: 18%;
+}
+
+.box13 .img13 {
   position: absolute;
   left: 18%;
 }
