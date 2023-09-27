@@ -25,3 +25,7 @@ span {
     font-family: monospace;
     display:none;
 }
+
+a {
+    color: inherit;
+    
