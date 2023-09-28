@@ -148,8 +148,7 @@ a {
   height: 200px;
   border: 7px black solid;
   top: 167%;
-  left: 40%;
-  transform: translate(-40%);
+  left: 26%;
   cursor: pointer;
 }
 
@@ -160,8 +159,18 @@ a {
   height: 200px;
   border: 7px black solid;
   top: 167%;
+  left: 43%;
+  cursor: pointer;
+}
+
+.box15 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 167%;
   left: 60%;
-  transform: translate(-60%);
   cursor: pointer;
 }
 
@@ -343,6 +352,18 @@ a {
   font-size: 25px;
 }
 
+.box15 .in15 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box15 .in15 h1 {
+  text-align: center;
+  font-size: 25px;
+}
 
 .box1 .img1 {
   position: absolute;
@@ -410,6 +431,11 @@ a {
 }
 
 .box14 .img14 {
+  position: absolute;
+  left: 18%;
+}
+
+.box15 .img15 {
   position: absolute;
   left: 18%;
 }
