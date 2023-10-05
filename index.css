@@ -1,21 +1,22 @@
 /* Set height of body and the document to 100% to enable "full page tabs" */
-@import url('https://fonts.cdnfonts.com/css/planet-n');
+@import url('https://fonts.cdnfonts.com/css/sf-pixelate');
 body,
 html {
   height: 95.3%;
   margin: 0;
-  font-family: 'Planet N', sans-serif;
+  font-family: 'SF Pixelate', sans-serif;
+  font-size: 20px;
   padding: 0;
-
 }
 
-a{
-    color: inherit;
-    text-decoration: none;
+a {
+  color: inherit;
+  text-decoration: none;
 }
 
 /* Style tab links */
 .tablink {
+  font-family: 'SF Pixelate', sans-serif;
   background-color: #555;
   color: white;
   float: left;
@@ -41,16 +42,20 @@ a{
 
 #Home {
   background-color: #08141e;
+  font-family: 'SF Pixelate', sans-serif;
 }
 #News {
   background-color: #0f2a3f;
+  font-family: 'SF Pixelate', sans-serif;
   padding: 0;
   margin: 0;
   height: 100%;
 }
 #Contact {
   background-color: #6d7a80;
+  font-family: 'SF Pixelate', sans-serif;
 }
 #About {
   background-color: #8caba1;
+  font-family: 'SF Pixelate', sans-serif;
 }
