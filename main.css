@@ -181,7 +181,7 @@ a {
   height: 200px;
   border: 7px black solid;
   top: 205%;
-  left: 35%;
+  left: 26%;
   cursor: pointer;
 }
 
@@ -192,7 +192,18 @@ a {
   height: 200px;
   border: 7px black solid;
   top: 205%;
-  left: 53%;
+  left: 43%;
+  cursor: pointer;
+}
+
+.box18 {
+  position: absolute;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border: 7px black solid;
+  top: 205%;
+  left: 60%;
   cursor: pointer;
 }
 
@@ -421,6 +432,19 @@ a {
   font-size: 25px;
 }
 
+.box18 .in18 {
+  position: absolute;
+  width: 186px;
+  height: 71px;
+  background-color: white;
+  top: 61%;
+}
+
+.box18 .in18 h1 {
+  text-align: center;
+  font-size: 25px;
+}
+
 .box1 .img1 {
   position: absolute;
   left: 18%;
@@ -504,6 +528,12 @@ a {
 .box17 .img17 {
   position: absolute;
   left: 18%;
+}
+
+.box18 .img18 {
+  position: absolute;
+  top: 20%;
+  left: 11%;
 }
 
 .title {
